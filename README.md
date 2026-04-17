@@ -1,4 +1,4 @@
-# Multi-tenant Feature Flag Management System/Platform Frontend
+# Multi-tenant Feature Flag Management System/Platform 
 
 This application using react and node that allows users to check whether a specific feature is enabled for an organization. It communicates with a backend API and displays feature status for user, manager features by organization admin and manage organisation by super admin.
 
