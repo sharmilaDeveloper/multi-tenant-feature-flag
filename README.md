@@ -66,12 +66,16 @@ git clone https://github.com/sharmilaDeveloper/multi-tenant-feature-flag.git
 ## Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
 ## Backend
 
 cd frontend
+
 npm install
+
 npm run dev
