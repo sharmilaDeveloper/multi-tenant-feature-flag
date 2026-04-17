@@ -1,5 +1,7 @@
 # Multi-tenant Feature Flag Management System/Platform 
 
+Live Demo : Live Demo : https://jam.dev/c/fd28526f-940d-429d-9ff5-730093430645
+
 This application using react and node that allows users to check whether a specific feature is enabled for an organization. It communicates with a backend API and displays feature status for user, manager features by organization admin and manage organisation by super admin.
 
 A multi-role SaaS-style frontend system for managing and checking feature flags across organizations. This project includes three separate user flows:
@@ -7,6 +9,14 @@ A multi-role SaaS-style frontend system for managing and checking feature flags 
 - Super Admin App
 - Organization Admin App
 - End User App
+
+---
+
+For Super admin Login:
+
+Go to login
+Username : superadmin@yopmail.com
+Password : superadmin
 
 ---
 
@@ -71,6 +81,12 @@ npm install
 
 npm run dev
 
+
+# For Super admin Login:
+
+Go to login
+Username : superadmin@yopmail.com
+Password : superadmin
 
 ## Backend
 
