@@ -2,6 +2,18 @@
 
 This application using node.js allows users to check whether a specific feature is enabled for an organization. It communicates with a backend API and displays feature status for user, manager features by organization admin and manage organisation by super admin.
 
+Live Demo:  https://jam.dev/c fd28526f-940d-429d-9ff5-730093430645
+
+---
+
+
+
+## For Super admin Login:
+
+Go to login from home page
+Username : superadmin@yopmail.com
+Password : superadmin
+
 ---
 
 ## Overview
@@ -77,3 +89,10 @@ npm run dev
 Server runs at:
 
 http://localhost:3000
+
+## 
+For Super admin Login:
+
+Go to login from home page
+Username : superadmin@yopmail.com
+Password : superadmin

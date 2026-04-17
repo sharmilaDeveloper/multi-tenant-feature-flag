@@ -57,7 +57,7 @@ export const checkFeature = async (req: Request, res: Response) => {
     );
 
     if (!feature) {
-      return res.status(500).json({
+      return res.status(404).json({
         message: "Feature not found or not configured for this organization",
       });
     }
